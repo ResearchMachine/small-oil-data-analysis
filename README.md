@@ -36,6 +36,6 @@ building a regression model and forecasting the production volume using the Mont
 ### III. Content
 
 
-**The project code contains @N scripts**:
-1. (@LINK) @SCRIPT;  
-2. (@LINK) @SCRIPT.
+**The project code contains 2 scripts**:
+1. EDA Python Notebook;  
+2. MVP GUI Python App.

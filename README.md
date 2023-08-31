@@ -39,3 +39,6 @@ building a regression model and forecasting the production volume using the Mont
 **The project code contains 2 scripts**:
 1. [EDA Python Notebook](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%20%D0%B1%D0%BB%D0%BE%D0%BA%D0%BD%D0%BE%D1%82.ipynb);  
 2. [MVP GUI Python App](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis/blob/main/%D0%9F%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%20%D0%B4%D0%BB%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%20%D0%BC%D0%B0%D0%BB%D1%8B%D1%85%20%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BE%D0%BA/RUN.ipynb).
+
+![image](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis/assets/70639823/bca2cecb-58bd-4e96-a371-a6ed7dfd07fb)
+

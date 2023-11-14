@@ -1,4 +1,4 @@
-# (2020) Statistical Data Analysis for Recommendations of Improving Oil Production Process. Small Size Data Analysis
+# (2021) Statistical Data Analysis for Recommendations of Improving Oil Production Process. Small Size Data Analysis
 **Company:**  Gazpromneft Technology Partnerships LLC  
 **Programming Language:**  Python 3  
 **Project Full Description**: **[Research Article](https://drive.google.com/file/d/1VDWvMugO1Xi0vq9hw1JTXwHYWVGlFPih/view?usp=sharing) (2021)**  
